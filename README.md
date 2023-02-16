@@ -1,5 +1,5 @@
 # RabbitMQ-Service
-Foi desenvolvido uma aplicação demonstrando a utilização do sistema de mensageria com RabbitMq de mensagens do azure Service Bus. 
+Foi desenvolvido uma aplicação demonstrando a utilização do sistema de mensageria com RabbitMq de mensagens. 
 Onde temos uma Controller que é o responsável por incluir cada nova mensagem na fila(Publisher),
 e um serviço para consumir as mensagens da fila.
 
