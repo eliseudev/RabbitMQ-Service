@@ -8,6 +8,7 @@ e um serviço para consumir as mensagens da fila.
 - Swagger
 - Injeção de Dependência
 - Programação Orientada a Objetos
+- Docker
 
 ## Funcionalidades
 - Enviar mensagem para fila.
